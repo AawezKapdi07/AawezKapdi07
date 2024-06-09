@@ -1,24 +1,23 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
+![Masterhead](https://media.licdn.com/dms/image/D4D16AQGsSJFemVu44Q/profile-displaybackgroundimage-shrink_350_1400/0/1717805110649?e=1723680000&v=beta&t=_F2uSadR4lg4acWbnnGkEOjyjQwmqV0VJts2d97zJdM)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aawez+kapdi!;" />
 </h1>
+<h3 align="center">I'm a DevOps Engineer with a Bachelor's degree in Mechanical Engineering.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="center">I'm a DevOps Engineer with a Bachelor's degree in Mechanical Engineering</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aawezkapdi07&label=Profile%20views&color=0e75b6&style=flat" alt="aawezkapdi07" /> </p>
 
-<br/>
+- 🌱 I’m currently learning **DevOps and DevOps tools**
 
-<div align="center">
+- 💬 Ask me about **Jenkins,K8s,Ansible,Python**
+
+- 📫 How to reach me **aawezkapdi07@gmail.com**
+
+- ⚡ Fun fact **I love to Cook, Read Manga and Watch Anime**
+
+</div>
  
-  🌱 I’m currently learning **DevOps and DevOps tools**
-
-💬 Ask me about **Docker, Jenkins, K8s, AWS, Ansible **
-
-⚡ Fun fact **I love to Cook, Read Manga and Watch Anime**
-
- </div>
- 
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:aawezkapdi07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -27,7 +26,8 @@
   </a>
 </div>
 
- <hr/>
+
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -36,30 +36,19 @@
     <img src="https://skillicons.dev/icons?i=grafana,linux,mongodb,mysql,nginx,nodejs,python,ruby,sklearn,selenium,tensorflow,go" /><br>
 </div>
 
-<br/>
-<hr/>
-
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=370 height=145 src="https://github-readme-streak-stats.herokuapp.com/?user=aawezkapdi07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="aawezkapdi07" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api?username=aawezkapdi07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="aawezkapdi07" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<br/>
 
 
 
