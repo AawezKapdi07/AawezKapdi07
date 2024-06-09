@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.canva.com/design/DAGHRkA8u5Y/FCxva1MDeStzEE8fC3zVhA/edit?utm_content=DAGHRkA8u5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1gJ-szCESbY66MqyMXWMe408BJjZTNyT5/view?usp=sharing)))]
+![Masterhead](https://media.licdn.com/dms/image/D4D16AQGsSJFemVu44Q/profile-displaybackgroundimage-shrink_350_1400/0/1717805110649?e=1723680000&v=beta&t=_F2uSadR4lg4acWbnnGkEOjyjQwmqV0VJts2d97zJdM)
 <h1 align="center">Hi 👋, I'm Aawez Sabir Kapdi</h1>
 <h3 align="center">I'm a DevOps Engineer with a Bachelor's degree in Mechanical Engineering.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
