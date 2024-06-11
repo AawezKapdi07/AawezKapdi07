@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **DevOps and DevOps tools**
 
-- 💬 Ask me about **Jenkins, K8s, Ansible, Python, Chef**
+- 💬 Ask me about **Jenkins, K8s, Ansible, Python, Chef.**
 
 - 📫 How to reach me **aawezkapdi07@gmail.com**
 
-- ⚡ Fun fact **I love to Cook, Read Manga and Watch Anime**
+- ⚡ Fun fact about myself is **I love to Cook, Read Manga and Watch Animes**
 
 </div>
  
