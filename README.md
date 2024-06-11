@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps and DevOps tools**
 
-- 💬 Ask me about **Jenkins,K8s,Ansible,Python**
+- 💬 Ask me about **Jenkins, K8s, Ansible, Python, Chef**
 
 - 📫 How to reach me **aawezkapdi07@gmail.com**
 
