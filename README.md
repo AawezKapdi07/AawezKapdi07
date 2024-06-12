@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact about myself is **I love to Cook, Read Manga and Watch Animes**
 
+- My mission is crystal clear - to empower organization with swifter, more effective software delivery while ensuring unwavering levels of excellence. 
+
+
+
 </div>
  
 <div align="left"> 
